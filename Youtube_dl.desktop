@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Youtube_dl
+Comment=Youtube-dl python client to download videos, audios, playlist, and different formats
+Exec=gnome-terminal -- python3.8 /home/gus/python_ytdl_client.py
+Icon=/home/gus/Pictures/launcher_icons/ytdl.png
+Terminal=false
+Type=Application
+Categories=Application
+
